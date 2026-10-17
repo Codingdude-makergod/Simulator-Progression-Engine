@@ -1,8 +1,6 @@
 [package]
-name = "arjun/quantum-scaling-engine"
-description = "A lightweight mathematical scaling and multiplier engine for clicker and simulator games on Roblox."
+name = "Codingdude-makergode/simulator-progression-engine"
+description = "A lightweight Lua module for calculating rebirth scaling and multipliers in Roblox games."
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-
-[dependencies]
