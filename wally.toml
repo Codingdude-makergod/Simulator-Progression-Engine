@@ -1,0 +1,8 @@
+[package]
+name = "arjun/quantum-scaling-engine"
+description = "A lightweight mathematical scaling and multiplier engine for clicker and simulator games on Roblox."
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
